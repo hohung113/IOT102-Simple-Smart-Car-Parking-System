@@ -5,8 +5,8 @@
 
 #define SS_PIN 10
 #define RST_PIN 9
-String UID1 = "83 F8 2F AD";
-String UID2 = "AD D8 D2 CF";
+String UID1 = "83 F8 2F AD";  // thay đổi mã code của bạn
+String UID2 = "AD D8 D2 CF";  // thay đổi mã code của bạn
 int totalSlots = 5;
 int availableSlots = totalSlots;
 
